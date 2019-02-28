@@ -1,350 +1,4 @@
 
----------------------------------------------------
-
-Date: 05/29/2019
-Name: No More Tours 2
-City: Atlanta
-Country: GA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 05/31/2019
-Name: No More Tours 2
-City: Sunrise
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/02/2019
-Name: No More Tours 2
-City: Tampa
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/04/2019
-Name: No More Tours 2
-City: Charlotte
-Country: NC
-Country: United States
-
----------------------------------------------------
-
-Date: 06/06/2019
-Name: No More Tours 2
-
----------------------------------------------------
-
-Country: OH
-City: Cincinnati
-Country: United States
-
----------------------------------------------------
-
-Name: No More Tours 2
-
----------------------------------------------------
-
-Country: PA
-City: Hershey
-Date: 06/08/2019
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Name: No More Tours 2
-Date: 06/11/2019
-Country: NY
-City: New York
-
----------------------------------------------------
-
-Country: United States
-
----------------------------------------------------
-
-Name: No More Tours 2
-Country: United States
-Date: 06/13/2019
-City: Burgettstown
-Country: United States
-
----------------------------------------------------
-
-Date: 06/15/2019
-
----------------------------------------------------
-
-City: Bangor
-Name: No More Tours 2
-Country: PA
-Country: United States
-
----------------------------------------------------
-
-Country: ME
-Date: 06/18/2019
-
----------------------------------------------------
-
-Country: Canada
-Name: No More Tours 2
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Name: No More Tours 2
-Date: 06/20/2019
-City: Hamilton
-City: Montréal
-
----------------------------------------------------
-
-Country: Canada
-
----------------------------------------------------
-
-City: Uncasville
-Name: No More Tours 2
-Date: 06/22/2019
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/26/2019
-Country: CT
-Name: No More Tours 2
-City: Maryland Heights
-Country: MO
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/28/2019
-Name: No More Tours 2
-City: Kansas City
-Country: MO
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/30/2019
-Name: No More Tours 2
-City: Des Moines
-Country: IA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/04/2019
-Name: No More Tours 2
-City: Milwaukee
-Country: WI
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/06/2019
-City: St Paul
-Name: No More Tours 2
-Country: United States
-Country: MN
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/09/2019
-Name: No More Tours 2
-City: Edmonton
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/11/2019
-Name: No More Tours 2
-City: Vancouver
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/13/2019
-Name: No More Tours 2
-City: Tacoma
-Country: WA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/16/2019
-Name: No More Tours 2
-City: Portland
-Country: OR
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/18/2019
-Name: No More Tours 2
-City: Sacramento
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/20/2019
-Name: No More Tours 2
-City: Las Vegas
-Country: NV
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/23/2019
-Name: No More Tours 2
-City: Chula Vista
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/25/2019
-Name: No More Tours 2
-City: Phoenix
-Country: AZ
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/27/2019
-Name: No More Tours 2
-City: Mountain View
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/29/2019
-Name: No More Tours 2
-Country: CA
-City: Los Angeles
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 10/04/2019
-Name: ROCK IN RIO 2019
-City: Barra Da Tijuca
-Country: Brazil
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 10/13/2019
-Name: MegaCruise 2019
-City: Los Angeles
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Artist: Queen
-
----------------------------------------------------
-
-Song: Under Pressure - Remastered
-Album: Hot Space (Deluxe Remastered Version)
-Preview: null
-
----------------------------------------------------
-
-Song: Sunflower - Spider-Man: Into the Spider-Verse
-Artist: Post Malone
-Preview: https://p.scdn.co/mp3-preview/5b6d51295b994a68b67ff35b97af7f3428781f44?cid=d31e80d695894f48b126538294918818
-Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Title: The Breakfast Club
-Rotten Tomatoes Rating: 88%
-IMDB Rating: 7.9
-Language: English
-Country: USA
-Release Year: 1985
-Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
-Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
-
----------------------------------------------------
 
 
 ---------------------------------------------------
@@ -356,3763 +10,588 @@ Album: The Hits--Chapter One
 
 ---------------------------------------------------
 
-
----------------------------------------------------
-
-Artist: Ace of Base
-Song: The Sign
-Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=d31e80d695894f48b126538294918818
-Album: The Sign (US Album) [Remastered]
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Artist: Ace of Base
-Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=d31e80d695894f48b126538294918818
-
----------------------------------------------------
-
-Album: The Sign (US Album) [Remastered]
-Song: The Sign
-
----------------------------------------------------
-
-Artist: Ace of Base
-Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=d31e80d695894f48b126538294918818
-Album: The Sign (US Album) [Remastered]
-
----------------------------------------------------
-
-Song: The Sign
-
----------------------------------------------------
-
-Artist: Backstreet Boys
-Song: I Want It That Way
-Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d31e80d695894f48b126538294918818
-Album: The Hits--Chapter One
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-City: Atlanta
-Date: 05/29/2019
-Country: GA
-Name: No More Tours 2
-
----------------------------------------------------
-
-Date: 05/31/2019
-Country: United States
-
----------------------------------------------------
-
-City: Sunrise
-Name: No More Tours 2
-Country: United States
-
----------------------------------------------------
-
-Date: 06/02/2019
-
----------------------------------------------------
-
-Country: FL
-Name: No More Tours 2
-City: Tampa
-Country: United States
-
----------------------------------------------------
-
-Date: 06/04/2019
-
----------------------------------------------------
-
-City: Charlotte
-Name: No More Tours 2
-Country: United States
-Country: FL
-
----------------------------------------------------
-
-Country: NC
-Date: 06/06/2019
-
----------------------------------------------------
-
-Country: OH
-City: Cincinnati
-Country: United States
-
----------------------------------------------------
-
-Date: 06/08/2019
-
----------------------------------------------------
-
-City: Hershey
-Name: No More Tours 2
-Country: United States
-
----------------------------------------------------
-
-Country: PA
-
----------------------------------------------------
-
-Name: No More Tours 2
-Date: 06/11/2019
-Name: No More Tours 2
-Country: United States
-City: New York
-
----------------------------------------------------
-
-Date: 06/13/2019
-
----------------------------------------------------
-
-Country: NY
-Name: No More Tours 2
-Country: United States
-
----------------------------------------------------
-
-Country: PA
-City: Burgettstown
-
----------------------------------------------------
-
-Date: 06/15/2019
-Name: No More Tours 2
-City: Bangor
-Country: United States
-
----------------------------------------------------
-
-Country: ME
-
----------------------------------------------------
-
-Name: No More Tours 2
-Date: 06/18/2019
-City: Montréal
-
----------------------------------------------------
-
-Country: Canada
-Date: 06/20/2019
-
----------------------------------------------------
-
-Name: No More Tours 2
-City: Hamilton
-
----------------------------------------------------
-
-Country: Canada
-
----------------------------------------------------
-
-Date: 06/22/2019
-Name: No More Tours 2
-City: Uncasville
-Country: CT
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/26/2019
-Name: No More Tours 2
-City: Maryland Heights
-Country: MO
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/28/2019
-Name: No More Tours 2
-City: Kansas City
-Country: MO
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/30/2019
-Name: No More Tours 2
-City: Des Moines
-Country: IA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/04/2019
-Name: No More Tours 2
-City: Milwaukee
-Country: WI
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/06/2019
-Name: No More Tours 2
-City: St Paul
-Country: MN
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/09/2019
-Name: No More Tours 2
-City: Edmonton
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/11/2019
-Name: No More Tours 2
-City: Vancouver
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/13/2019
-Name: No More Tours 2
-City: Tacoma
-Country: WA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/16/2019
-Name: No More Tours 2
-City: Portland
-Country: OR
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-City: Sacramento
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Name: No More Tours 2
-Name: No More Tours 2
-Country: NV
+Iron Maiden
 Date: 07/18/2019
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-City: Las Vegas
+Name: BB&T Center
+Country: FL
+City: Sunrise
 Date: 07/20/2019
-Name: No More Tours 2
-City: Chula Vista
-Country: United States
-Date: 07/23/2019
-
----------------------------------------------------
-
-Country: CA
-Date: 07/25/2019
-
----------------------------------------------------
-
-City: Phoenix
-Name: No More Tours 2
 Country: United States
 
 ---------------------------------------------------
 
-Date: 07/27/2019
-Name: No More Tours 2
-City: Mountain View
-Country: CA
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Country: United States
-Date: 07/29/2019
-Country: AZ
-City: Los Angeles
-Name: No More Tours 2
-Country: United States
-
----------------------------------------------------
-
-Country: CA
-
----------------------------------------------------
-
-Name: ROCK IN RIO 2019
-
----------------------------------------------------
-
-Date: 10/04/2019
-City: Barra Da Tijuca
-
----------------------------------------------------
-
-Date: 10/13/2019
-Country: Brazil
-
----------------------------------------------------
-
-Country: CA
-City: Los Angeles
-Name: MegaCruise 2019
-
----------------------------------------------------
-
-Country: United States
-
----------------------------------------------------
-
-Date: 02/26/2019
-Name: End of the Road World Tour - Oklahoma City, OK
-City: Oklahoma City
-Country: OK
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 02/27/2019
-Name: End of the Road World Tour - Kansas City, MO
-City: Kansas City
-Country: MO
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/01/2019
-Name: End of the Road World Tour - Milwaukee, WI
-City: Milwaukee
-Country: WI
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/02/2019
-Name: End of the Road World Tour - Chicago, IL
-City: Chicago
-Country: IL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/04/2019
-Name: End of the Road World Tour - Minneapolis, MN
-City: Minneapolis
-Country: MN
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/06/2019
-Name: End of the Road World Tour - Sioux Falls, SD
-City: Sioux Falls
-Country: SD
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/07/2019
-Name: End of the Road World Tour - Omaha, NE
-Country: NE
-City: Omaha
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/09/2019
-Name: End of the Road World Tour - Grand Rapids, MI
-City: Grand Rapids
-Country: MI
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/10/2019
-Name: End of the Road World Tour - Moline, IL
-City: Moline
-Country: IL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/12/2019
-Name: End of the Road World Tour - Louisville, KY
-City: Louisville
-Country: KY
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/13/2019
-Name: End of the Road World Tour - Detroit, MI
-City: Detroit
-Country: MI
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Name: End of the Road World Tour - Columbus, OH
-Country: OH
-Date: 03/16/2019
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-City: Columbus
-Date: 03/17/2019
-Name: End of the Road World Tour - Cleveland, OH
-City: Cleveland
-Country: OH
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/19/2019
-Name: End of the Road World Tour - Montreal, Canada
-City: Montreal
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/20/2019
-Name: End of the Road World Tour - Toronto, Canada
-City: Toronto
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/22/2019
-Name: End of the Road World Tour - Uniondale, NY
-City: Uniondale
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/23/2019
-Name: End of the Road World Tour - Uncasville, CT
-City: Uncasville
-Country: CT
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/26/2019
-Name: End of the Road World Tour - Boston, MA
-City: Boston
-Country: MA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/27/2019
-Name: End of the Road World Tour - New York, NY
-City: New York
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/29/2019
-Name: End of the Road World Tour - Philadelphia, PA
-City: Philadelphia
-Country: PA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 03/30/2019
-Name: End of the Road World Tour - Pittsburgh, PA
-City: Pittsburgh
-Country: PA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 04/02/2019
-Name: End of the Road World Tour - Quebec, Canada
-City: Quebec
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 04/03/2019
-Name: End of the Road World Tour - Ottawa, Canada
-City: Ottawa
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 04/06/2019
-Name: End of the Road World Tour - Raleigh, NC
-City: Raleigh
-Country: NC
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 04/07/2019
-Name: End of the Road World Tour - Atlanta, GA
 City: Atlanta
 Country: GA
 Country: United States
 
 ---------------------------------------------------
 
-
----------------------------------------------------
-
-Date: 04/09/2019
-Name: End of the Road World Tour - Nashville, TN
-City: Nashville
-Country: TN
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 04/11/2019
-Name: End of the Road World Tour - Tampa, FL
-City: Tampa
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 04/12/2019
-Name: End of the Road World Tour - Jacksonville, FL
-City: Jacksonville
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 04/13/2019
-Name: End of the Road World Tour - Birmingham, AL
-City: Birmingham
-Country: AL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 05/03/2019
-Name: Domination Festival
-City: Mexico City
-Country: Mexico
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 05/04/2019
-Name: Domination Festival
-City: Mexico City
-
----------------------------------------------------
-
-Country: Mexico
-
----------------------------------------------------
-
-Date: 05/27/2019
-Name: End of the Road World Tour - Leipzig, Germany
-City: Leipzig
-Country: Germany
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 05/29/2019
-Name: End of the Road World Tour - Vienna, Austria
-City: Vienna
-Country: Austria
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 05/31/2019
-Name: End of the Road World Tour - Munich, Germany
-City: Munich
-Country: Germany
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/02/2019
-Name: End of the Road World Tour - Essen, Germany
-City: Essen
-Country: Germany
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/04/2019
-Name: End of the Road World Tour - Berlin, Germany
-City: Berlin
-Country: Germany
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/05/2019
-Name: End of the Road World Tour - Hannover, Germany
-City: Hannover
-Country: Germany
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/07/2019
-Name: End of the Road World Tour - Solvesborg, Sweden
-City: Solvesborg
-Country: Sweden
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/09/2019
-Name: End of the Road World Tour - Helsinki
-City: Helsinki
-Country: Finland
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/11/2019
-Name: End of the Road World Tour - St. Peterspurg, Russia
-City: St. Petersburg
-Country: Russia
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/13/2019
-Name: End of the Road World Tour - Moscow, Russia
-City: Moscow
-Country: Russia
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/16/2019
-Name: End of the Road World Tour - Kiev, Ukraine
-City: Kiev
-Country: Ukraine
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/18/2019
-Name: End of the Road World Tour - Krakow, Poland
-City: Krakow
-Country: Poland
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/25/2019
-Name: End of the Road World Tour - Amsterdam, Netherlands
-City: Amsterdam
-Country: Netherlands
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/27/2019
-Name: End of the Road World Tour - Oslo, Norway
-City: Oslo
-Country: Norway
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 06/28/2019
-Name: End of the Road World Tour - Trondehim, Norway
-City: Trondehim
-Country: Norway
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/02/2019
-Name: End of the Road World Tour - Milan, Italy
-City: Milan
-Country: Italy
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/04/2019
-Name: End of the Road World Tour - Zurich, Switzerland
-City: Zurich
-Country: Switzerland
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/06/2019
-Name: End of the Road World Tour - Iffezheim, Germany
-City: Iffezheim
-Country: Germany
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/09/2019
-Name: End of the Road World Tour - Birmingham, England
-City: Birmingham
-Country: United Kingdom
-
----------------------------------------------------
-
-Name: End of the Road World Tour - London, England
-
----------------------------------------------------
-
-Date: 07/11/2019
-Country: United Kingdom
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-City: Lodon
-Name: End of the Road World Tour - Manchester, England
-Date: 07/12/2019
-City: Manchester
-Country: United Kingdom
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/14/2019
-Name: End of the Road World Tour - Newcastle, England
-City: Newcastle
-Country: United Kingdom
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 07/16/2019
-Name: End of the Road World Tour - Glasgow, Scotland
-City: Glasgow
-Country: Scotland
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/06/2019
-Name: End Of The Road World Tour - Sunrise, FL
-City: Sunrise
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/08/2019
-Name: End Of The Road World Tour - Charleston, SC
-City: Charleston
-Country: SC
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/10/2019
-Name: End Of The Road World Tour - Charlotte, NC
+Name: PNC Music Pavilion
 City: Charlotte
-Country: NC
 Country: United States
+Name: Lakewood Amphitheatre
 
 ---------------------------------------------------
 
+Country: NC
+Date: 07/22/2019
+Name: Jiffy Lube Live
+Country: VA
+Country: United States
+Date: 07/26/2019
 
 ---------------------------------------------------
 
-Date: 08/11/2019
-Name: End Of The Road World Tour - Bristow, VA
 City: Bristow
-Country: VA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/13/2019
-Name: End Of The Road World Tour - Virginia Beach, VA
-City: Virginia Beach
-Country: VA
-Country: United States
-
----------------------------------------------------
-
-Date: 08/14/2019
-
----------------------------------------------------
-
-City: Newark
-Name: End Of The Road World Tour - Newark, NJ
-Country: NJ
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/16/2019
-Name: End Of The Road World Tour - Montreal, QC
-City: Montreal
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/17/2019
-Name: End Of The Road World Tour - Toronto, ON
-City: Toronto
-Country: Canada
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/20/2019
-Name: End Of The Road World Tour - Brooklyn, NY
 City: Brooklyn
 Country: NY
+Name: Barclays Center
+
+---------------------------------------------------
+
 Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/21/2019
-Name: End Of The Road World Tour - Hershey, PA
-City: Hershey
-Country: PA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/23/2019
-Name: End Of The Road World Tour - Darien Center, NY
-City: Darien Center
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/24/2019
-Name: End Of The Road World Tour - Saratoga Springs, NY
-City: Saratoga Springs
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/27/2019
-Name: End Of The Road World Tour - Syracuse, NY
-City: Syracuse
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/29/2019
-Name: End Of The Road World Tour - Cincinnati, OH
-City: Cincinnati
-Country: OH
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 08/31/2019
-Name: End Of The Road World Tour - Indianapolis, IN
-Country: IN
-Country: United States
-City: Indianapolis
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/01/2019
-Name: End Of The Road World Tour - St. Louis, MO
-City: St. Louis
-Country: MO
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/03/2019
-Name: End Of The Road World Tour - Des Moines, IA
-City: Des Moines
-Country: IA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/05/2019
-Name: End Of The Road World Tour - Little Rock, AR
-City: Little Rock
-Country: AR
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/07/2019
-Name: End Of The Road World Tour - Bossier City, LA
-City: Bossier City
-Country: LA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/08/2019
-Name: End Of The Road World Tour - San Antonio, TX
-City: San Antonio
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/09/2019
-Name: End Of The Road World Tour - Houston, TX
-City: Houston
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/11/2019
-Name: End Of The Road World Tour - Albuquerque, NM
-City: Albuquerque
-Country: NM
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/12/2019
-Name: End Of The Road World Tour - Denver, CO
-City: Denver
-Country: CO
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/14/2019
-Name: End Of The Road World Tour - Salt Lake City, UT
-City: Salt Lake City
-Country: UT
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 09/16/2019
-Name: End Of The Road World Tour - Oakland, CA
-City: Oakland
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/16/2019
-Name: End of the Road World Tour - Perth, Australia
-City: Perth
-Country: Australia
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/19/2019
-Name: End of the Road World Tour - Adelaide, Australia
-City: Adelaide
-Country: Australia
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/21/2019
-Name: End of the Road World Tour - Melbourne, Australia
-City: Melbourne
-Country: Australia
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/22/2019
-Name: End of the Road World Tour - Melbourne, Australia
-City: Melbourne
-Country: Australia
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/23/2019
-Name: End of the Road World Tour - Newcastle, Australia
-City: Newcastle
-Country: Australia
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/26/2019
-Name: End of the Road World Tour - Sydney, Australia
-City: Sydney Olympic Park
-Country: Australia
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 11/28/2019
-Name: End of the Road World Tour - Brisbane, Australia
-City: Brisbane
-Country: Australia
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Date: 12/03/2019
-Name: End of the Road World Tour - Auckland, New Zealand
-City: Auckland
-Country: New Zealand
-
----------------------------------------------------
-
-AC/DC
-Megadeth
-Date: 05/29/2019
-Name: No More Tours 2
-Country: United States
-City: Atlanta
-
----------------------------------------------------
-
-Country: GA
-Name: No More Tours 2
-Country: United States
-Date: 05/31/2019
-
----------------------------------------------------
-
-City: Sunrise
-Name: No More Tours 2
-Country: FL
-Date: 06/02/2019
-Country: United States
-
----------------------------------------------------
-
-Country: FL
-Date: 06/04/2019
-Country: NC
-Name: No More Tours 2
-Country: United States
-
----------------------------------------------------
-
-Date: 06/06/2019
-Name: No More Tours 2
-City: Charlotte
-City: Tampa
-City: Cincinnati
-Country: United States
-
----------------------------------------------------
-
-Name: No More Tours 2
-Date: 06/08/2019
-Country: OH
-City: Hershey
-Country: United States
-
----------------------------------------------------
-
-Country: PA
-Date: 06/11/2019
-Country: NY
-Name: No More Tours 2
-
----------------------------------------------------
-
-Date: 06/13/2019
-City: New York
-Name: No More Tours 2
-Country: PA
-Country: United States
-
----------------------------------------------------
-
-City: Burgettstown
-Country: United States
-City: Bangor
-Name: No More Tours 2
-Country: United States
-
----------------------------------------------------
-
-Date: 06/15/2019
-Date: 06/18/2019
-Name: No More Tours 2
-Country: ME
-
----------------------------------------------------
-
-Date: 06/20/2019
-Name: No More Tours 2
-City: Hamilton
-City: Montréal
-
----------------------------------------------------
-
-Country: Canada
-Date: 06/22/2019
-City: Uncasville
-Country: CT
-Country: Canada
-Name: No More Tours 2
-
----------------------------------------------------
-
-Name: No More Tours 2
-Country: United States
-Country: MO
-Country: United States
-Date: 06/26/2019
-City: Maryland Heights
-
----------------------------------------------------
-
-Name: No More Tours 2
-Date: 06/28/2019
-City: Kansas City
-Country: United States
-
----------------------------------------------------
-
-Name: No More Tours 2
-Date: 06/30/2019
-Country: IA
-City: Des Moines
-Country: United States
-
----------------------------------------------------
-
-Name: No More Tours 2
-City: Milwaukee
-Date: 07/04/2019
-Country: United States
-
----------------------------------------------------
-
-Country: WI
-Name: No More Tours 2
-City: St Paul
-Country: MN
-Country: United States
-Country: MO
-
----------------------------------------------------
-
-Date: 07/09/2019
-Name: No More Tours 2
-City: Edmonton
-Country: Canada
-
----------------------------------------------------
-
-Date: 07/11/2019
-City: Vancouver
-Name: No More Tours 2
-
----------------------------------------------------
-
-Date: 07/13/2019
-Name: No More Tours 2
-Country: Canada
-Date: 07/06/2019
-City: Tacoma
-Country: United States
-
----------------------------------------------------
-
-Name: No More Tours 2
-City: Portland
-Date: 07/16/2019
-Country: United States
-Country: OR
-
----------------------------------------------------
-
-Name: No More Tours 2
-Date: 07/18/2019
-Country: WA
-City: Sacramento
-Country: United States
-
----------------------------------------------------
-
-Date: 07/20/2019
-Name: No More Tours 2
-Country: NV
-City: Las Vegas
-Country: United States
-
----------------------------------------------------
-
-Date: 07/23/2019
-City: Chula Vista
-Country: CA
-Name: No More Tours 2
-Country: United States
-
----------------------------------------------------
-
-Country: CA
-Date: 07/25/2019
-Country: AZ
-City: Phoenix
-Country: United States
-
----------------------------------------------------
-
-Name: No More Tours 2
 Date: 07/27/2019
-Country: CA
-Name: No More Tours 2
-
----------------------------------------------------
-
-Date: 07/29/2019
-Name: No More Tours 2
-Country: United States
-Country: United States
-City: Los Angeles
-
----------------------------------------------------
-
-Country: CA
-Date: 10/04/2019
-Name: ROCK IN RIO 2019
-City: Mountain View
-
----------------------------------------------------
-
-City: Barra Da Tijuca
-Country: Brazil
-Date: 10/13/2019
-City: Los Angeles
-Name: MegaCruise 2019
+Name: Barclays Center
+Country: NY
+Date: 07/24/2019
 
 ---------------------------------------------------
 
 Country: United States
-Country: CA
-Arcade Fire
-
----------------------------------------------------
-
-Artist: Backstreet Boys
-Album: The Hits--Chapter One
-Song: I Want It That Way
-Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d31e80d695894f48b126538294918818
-
----------------------------------------------------
-
-Metallica
-Date: 02/28/2019
-Name: Don Haskins Center
+Name: Wells Fargo Center
+Date: 07/30/2019
+City: Philadelphia
+City: Brooklyn
 Country: United States
-Country: TX
-City: El Paso
-
----------------------------------------------------
-
-Date: 03/02/2019
-Name: United Supermarkets Arena
-City: Lubbock
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-Date: 03/04/2019
-Name: Intrust Bank Arena
-City: Wichita
-Country: KS
-Country: United States
-
----------------------------------------------------
-
-Date: 03/06/2019
-Name: Sprint Center
-City: Kansas City
-Country: MO
-Country: United States
-
----------------------------------------------------
-
-Date: 03/09/2019
-Name: KFC Yum! Center
-City: Louisville
-Country: KY
-Country: United States
-
----------------------------------------------------
-
-Date: 03/11/2019
-Name: Bankers Life Fieldhouse
-City: Indianapolis
-Country: IN
-Country: United States
-
----------------------------------------------------
-
-Date: 03/13/2019
-Name: Van Andel Arena
-City: Grand Rapids
-Country: MI
-Country: United States
-
----------------------------------------------------
-
-Date: 05/01/2019
-Name: Estadio do Restelo
-Country: Portugal
-City: Lisbon
-
----------------------------------------------------
-
-Date: 05/03/2019
-Name: Valdebebas - IFEMA
-City: Madrid
-Country: Spain
-
----------------------------------------------------
-
-Date: 05/05/2019
-Name: Estadi Olímpic Lluís Companys
-City: Barcelona
-
----------------------------------------------------
-
-Country: Spain
-Date: 05/08/2019
-Name: Ippodromo Snai - San Siro
-City: Milan
-Country: Italy
-
----------------------------------------------------
-
-Date: 05/10/2019
-Name: Stadion Letzigrund
-City: Zürich
-Country: Switzerland
-
----------------------------------------------------
-
-Date: 05/12/2019
-Name: Stade de France
-Country: France
-
----------------------------------------------------
-
-City: Paris
-Date: 06/08/2019
-Name: SLANE CASTLE
-City: Co. Meath
-Country: Ireland
-
----------------------------------------------------
-
-Date: 06/11/2019
-Name: Johan Cruijff ArenA
-City: Amsterdam
-Country: Netherlands
-
----------------------------------------------------
-
-Date: 06/13/2019
-Name: RheinEnergieSTADION
-City: Köln
-Country: Germany
-
----------------------------------------------------
-
-Date: 06/16/2019
-Name: King Baudouin Stadium
-City: Bruxelles
-Country: Belgium
-
----------------------------------------------------
-
-Date: 06/18/2019
-Name: Etihad Stadium
-City: Manchester
-Country: United Kingdom
-
----------------------------------------------------
-
-Date: 06/20/2019
-Name: Twickenham Stadium
-City: London
-Country: United Kingdom
-
----------------------------------------------------
-
-Date: 07/06/2019
-Name: Olympiastadion
-City: Berlin
-Country: Germany
-
----------------------------------------------------
-
-Date: 07/09/2019
-Name: Ullevi Restaurant & Conference
-City: Göteborg
-Country: Sweden
-
----------------------------------------------------
-
-Date: 07/11/2019
-Name: Telia Parken
-City: Copenhagen
-Country: Denmark
-
----------------------------------------------------
-
-Date: 07/13/2019
-Name: Granasen Arena
-City: Trondheim
-Country: Norway
-
----------------------------------------------------
-
-Date: 07/16/2019
-Name: KANTOLAN TAPAHTUMAPUISTO
-City: Hameenlinna
-Country: Finland
-
----------------------------------------------------
-
-Date: 07/18/2019
-Name: Raadi lennuväli
-City: Tartu
-Country: Estonia
-
----------------------------------------------------
-
-Date: 07/21/2019
-Name: The Luzhniki Stadium
-City: Moscow
-Country: Russia
-
----------------------------------------------------
-
-Date: 08/14/2019
-Name: NATIONAL ARENA
-City: Bucuresti
-Country: Romania
-
----------------------------------------------------
-
-Date: 08/16/2019
-Name: Ernst-Happel-Stadion
-City: Wien
-Country: Austria
-
----------------------------------------------------
-
-Date: 08/18/2019
-Name: Letiště Praha Letňany
-Country: Czech Republic
-City: Praha
-
----------------------------------------------------
-
-Date: 08/21/2019
-Name: PGE Narodowy
-City: Warsaw
-Country: Poland
-
----------------------------------------------------
-
-Date: 08/23/2019
-Name: Olympiastadion
-City: Munchen
-Country: Germany
-
----------------------------------------------------
-
-Date: 08/25/2019
-Name: Maimarkt Gelände
-City: Mannheim
-Country: Germany
-
----------------------------------------------------
-
-Anthrax
-Date: 03/07/2019
-City: Brisbane City
-
----------------------------------------------------
-
-Country: Australia
-Name: Download Festival
-Name: Riverstage
-Country: Australia
-Date: 03/09/2019
-
----------------------------------------------------
-
-City: Sydney
-Date: 03/11/2019
-City: Melbourne
-Country: Australia
-Name: Download Festival
-
----------------------------------------------------
-
-Name: Adelaide Entertainment Centre
-City: Hindmarsh
-Date: 03/13/2019
-Country: Australia
-
----------------------------------------------------
-
-Date: 03/15/2019
-Name: Eventfinda Stadium
-City: Auckland
-Country: New Zealand
-
----------------------------------------------------
-
-Date: 03/17/2019
-Name: Horncastle Arena
-City: Christchurch
-Country: New Zealand
-
----------------------------------------------------
-
-Date: 03/21/2019
-Name: Download Festival
-City: Chiba Prefecture
-Country: Japan
-
----------------------------------------------------
-
-Date: 06/07/2019
-Name: Rock Hard Festival
-City: Gelsenkirchen
-Country: Germany
-
----------------------------------------------------
-
-Date: 06/12/2019
-Name: Centrum Koncertowe A2
-City: Wrocław
-Country: Poland
-
----------------------------------------------------
-
-Date: 06/13/2019
-Name: Nova Rock
-City: Nickelsdorf
-Country: Austria
-
----------------------------------------------------
-
-Date: 06/16/2019
-Name: Download Festival
-City: Castle Donington
-Country: United Kingdom
-
----------------------------------------------------
-
-Date: 06/21/2019
-Name: Graspop Metal Meeting
-City: Dessel
-Country: Belgium
-
----------------------------------------------------
-
-Date: 06/23/2019
-Name: Complexe Du Val De Moine
-City: Saint-hilaire-de-clisson
-Country: France
-
----------------------------------------------------
-
-Date: 06/25/2019
-Name: Tipsport Arena 
-City: Praha 7
-Country: Czech Republic
-
----------------------------------------------------
-
-Date: 06/28/2019
-Name: Suvilahti
-City: Helsinki
-Country: Finland
-
----------------------------------------------------
-
-Date: 06/29/2019
-Name: Ceres Plaza
-City: Aarhus
-Country: Denmark
-
----------------------------------------------------
-
-Date: 07/27/2019
-Name: Heavy Montreal
-City: Montreal
-Country: Canada
 
 ---------------------------------------------------
 
 Date: 08/01/2019
-Name: Wacken Open Air
-City: Wacken
-Country: Germany
+Name: Xfinity Center
+City: Mansfield
+Country: United States
 
 ---------------------------------------------------
 
+Country: PA
 Date: 08/03/2019
-Name: Messegelände Balingen
-City: Balingen
-Country: Germany
+Name: Xfinity Theatre
+Country: CT
+Country: MA
+City: Hartford
+Country: United States
 
 ---------------------------------------------------
 
-Date: 08/08/2019
-Name: Catton Hall & Park
-City: Walton On Trent
-Country: United Kingdom
+City: Montreal
+Country: Canada
+
+---------------------------------------------------
+
+Date: 08/05/2019
+Name: Bell Centre
+Name: Videotron Centre
 
 ---------------------------------------------------
 
 Date: 08/09/2019
-Name: Into The Grave
-City: Leeuwarden
-Country: Netherlands
+City: Ville De Québec
+Country: Canada
+Name: Budweiser Stage
+Date: 08/07/2019
+Country: Canada
 
 ---------------------------------------------------
 
+City: Toronto
+Name: Budweiser Stage
+Country: Canada
 Date: 08/10/2019
-Name: Bloodstock Open Air
-City: Derby
-Country: United Kingdom
 
 ---------------------------------------------------
 
-Date: 08/10/2019
-Name: Brutal Assault Festival
-City: Jaroměř
-Country: Czech Republic
-
----------------------------------------------------
-
+City: Buffalo
+Country: NY
 Date: 08/13/2019
-City: Los Angeles
-Name: MegaCruise
-Country: CA
-Country: United States
+Name: KeyBank Center
 
 ---------------------------------------------------
 
-Date: 10/04/2019
-Name: Rock In Rio
-City: Rio De Janeiro
-Country: Brazil
-
----------------------------------------------------
-
-Slayer
-Date: 03/07/2019
-Name: Brisbane Riverstage 
-
----------------------------------------------------
-
-Country: Australia
-City: Brisbane
-Name: Download Festival
-Country: Australia
-City: Sydney
-Date: 03/09/2019
-Name: Download Festival
-
----------------------------------------------------
-
-Country: Australia
-
----------------------------------------------------
-
-Date: 03/11/2019
-Name: Adelaide Entertainment Centre
-City: Melbourne
-Date: 03/13/2019
-
----------------------------------------------------
-
-Date: 03/15/2019
-Country: Australia
-Name: Eventfinda Stadium
-Country: New Zealand
-City: Auckland
-
----------------------------------------------------
-
-City: Adelaide
-Name: Horncastle Arena
-Country: New Zealand
-
----------------------------------------------------
-
-Date: 03/21/2019
-Name: Download Festival
-City: Christchurch
-City: Chiba Prefecture
-
----------------------------------------------------
-
-Date: 03/23/2019
-Country: Japan
-Name: Pulp Summer Slam
-Date: 03/17/2019
-City: Manila
-
----------------------------------------------------
-
-Date: 05/02/2019
-Name: Ak-Chin Pavilion
-Country: AZ
-City: Phoenix
-Country: United States
-
----------------------------------------------------
-
-City: Albuquerque
-Name: Isleta Amphitheater
-Country: Philippines
-Country: NM
-Date: 05/03/2019
-
----------------------------------------------------
-
-Name: UTEP/Don Haskins Center
-Date: 05/05/2019
-Country: United States
-City: El Paso
-Country: TX
-
----------------------------------------------------
-
-Country: United States
-Name: Bert Ogden Arena
-City: Edinburg
-Country: United States
-Date: 05/07/2019
-
----------------------------------------------------
-
-Name: The Pavilion at Toyota Music Factory
-Country: TX
-Date: 05/08/2019
-Country: United States
-
----------------------------------------------------
-
-City: Irving
-Date: 05/10/2019
-Name: Mid Florida Credit Union Amphitheatre
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-City: Tampa
-Date: 05/11/2019
-Name: Coral Sky Amphitheater
-Country: FL
-Country: TX
-
----------------------------------------------------
-
-Name: Big Sandy Superstore Arena
-Country: United States
-Date: 05/13/2019
-City: Huntington
-City: West Palm Beach
-Country: United States
-
----------------------------------------------------
-
-Country: WV
-City: Columbia
-Name: Merriweather Post Pavilion
-Country: United States
-Date: 05/14/2019
-
----------------------------------------------------
-
-Date: 05/16/2019
-Name: Ruoff Home Mortgage Music Center
-Country: IN
-Country: MD
-City: Noblesville
-
----------------------------------------------------
-
-Date: 05/17/2019
-Country: United States
-Name: Providence Medical Center Amphitheater
-Country: KS
-Country: United States
-
----------------------------------------------------
-
-City: Bonner Springs
-City: Clarkston
-Date: 05/19/2019
-Name: DTE Energy Music Theater
-
----------------------------------------------------
-
-Country: MI
-Country: United States
-City: Youngstown
-Name: Covelli Centre
+Name: Riverbend Music Center
+City: Cincinnati
+City: Toronto
 Country: United States
 Country: OH
-Date: 05/20/2019
-
----------------------------------------------------
-
-Name: Canadian Tire Centre
-City: Ottawa
-Country: Canada
-Date: 05/22/2019
-
----------------------------------------------------
-
-City: Camden
-Date: 05/24/2019
-Country: United States
-Name: BB&T Pavilion
-
----------------------------------------------------
-
-Name: Xfinity Center
-Date: 05/25/2019
-City: Mansfield
-Country: MA
 Country: United States
 
 ---------------------------------------------------
 
-Name: Gliwice Arena
-Country: NJ
-City: Gliwice
-Date: 06/04/2019
-
----------------------------------------------------
-
-Name: Sweden Rock Festival AB
-Date: 06/06/2019
-City: Sölvesborg S
-Country: Sweden
-Date: 06/08/2019
-
----------------------------------------------------
-
-Name: Rock Am Ring (June 7-9)
-Country: Germany
-City: Nürburg
-Country: Poland
-Date: 06/09/2019
-
----------------------------------------------------
-
-Name: Rock im Park (June 7-9)
-Country: Germany
-
----------------------------------------------------
-
-City: Nurnberg
-Name: Sports Arena
-Country: Hungary
-City: Budapest
-Date: 06/13/2019
-
----------------------------------------------------
-
-Name: Arena Leipzig
-City: Leipzig
-Date: 06/11/2019
-
----------------------------------------------------
-
-Country: Germany
-Name: Nova Rock
-City: Nickelsdorf
-Country: Austria
-
----------------------------------------------------
-
-Name: Download Festival (June 14-16)
-Date: 06/14/2019
-City: Castle Donington
-Country: United Kingdom
-
----------------------------------------------------
-
-Name: Geneva Arena
-Date: 06/16/2019
-City: Le Grand-saconnex
-Date: 06/19/2019
-Country: Switzerland
-
----------------------------------------------------
-
-City: Dessel
-Date: 06/21/2019
-Country: Belgium
-
----------------------------------------------------
-
-Name: Graspop Metal Meeting
-Date: 06/23/2019
-Name: Hellfest
-Country: France
-
----------------------------------------------------
-
-Name: Tipsport Arena
-City: Clisson
-Country: Czech Republic
-City: Praha
-Date: 06/25/2019
-
----------------------------------------------------
-
-Name: Tons Of Rock
-Country: Norway
-Date: 06/28/2019
-
----------------------------------------------------
-
-City: Oslo
-Name: Tuska Open Air
-City: Helsinki
-Country: Finland
-
----------------------------------------------------
-
-Date: 06/29/2019
-Name: Resurrection Fest
-Date: 07/03/2019
-
----------------------------------------------------
-
-Country: Spain
-Date: 07/05/2019
-Name: Heavy Rock Festival Stadium Restelo
-Country: Portugal
-
----------------------------------------------------
-
-City: Lisbon
-Date: 07/07/2019
-Name: Rock the Castle
-City: Viveiro
-
----------------------------------------------------
-
-City: Vérone
-Country: Italy
-Date: 07/10/2019
-Name: Arenele Romane
-
----------------------------------------------------
-
-Country: Romania
-Name: Sofia Airport Park
-Date: 07/11/2019
-City: Bucharest
-Country: Bulgaria
-
----------------------------------------------------
-
-Name: AthensRocks Apostolos Nikolaidis Stadium
-Date: 07/13/2019
-City: Athens
-Country: Greece
-
----------------------------------------------------
-
-Name: Heavy Montreal (Weekend of July 27-28)
-City: Sofia
-City: Montreal
-
----------------------------------------------------
-
-Date: 07/27/2019
-Name: Wacken Open Air
-City: Wacken
-Country: Germany
-
----------------------------------------------------
-
-Date: 08/03/2019
-Name: Messegelände Balingen
-City: Balingen
-Date: 08/02/2019
-
----------------------------------------------------
-
-Country: Canada
-Country: Germany
-Name: Rock In Rio
-City: Rio De Janeiro
-
----------------------------------------------------
-
-Date: 10/04/2019
-Country: Brazil
-Empire of the sun
-Date: 03/02/2019
-Name: M3F Music Festival
-City: Phoenix
+Name: PPG Paints Arena
+City: Pittsburgh
+Country: PA
 Country: United States
+Date: 08/15/2019
 
 ---------------------------------------------------
 
-Country: AZ
-Date: 05/30/2019
-City: Chicago
+Name: Bridgestone Arena
+Date: 08/17/2019
+Country: TN
+Date: 08/19/2019
+
+---------------------------------------------------
+
+City: Nashville
+Country: United States
+Name: Hollywood Casino Amphitheatre - Chicago, IL
 Country: IL
-Country: United States
-
----------------------------------------------------
-
-Name: Metro Chicago
-Name: Metro Chicago
-Date: 05/31/2019
-Country: United States
-Country: IL
-
----------------------------------------------------
-
-City: Chicago
-Date: 06/01/2019
-Name: Metro
-City: Chicago
-Country: United States
-
----------------------------------------------------
-
-Name: Royale
-City: Boston
-Country: IL
-Date: 06/03/2019
-Country: United States
-
----------------------------------------------------
-
-Name: Royale
-Date: 06/04/2019
-City: Boston
-Country: United States
-Country: MA
-Date: 06/06/2019
-
----------------------------------------------------
-
-City: New York
-Country: NY
-Country: MA
-Country: United States
-
----------------------------------------------------
-
-Name: Webster Hall
-City: New York
-Date: 06/07/2019
-Country: United States
-Country: NY
-
----------------------------------------------------
-
-Name: Webster Hall
-City: New York
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-Date: 06/08/2019
-Name: House of Blues Dallas
-City: Dallas
-Date: 06/11/2019
-Country: United States
-
----------------------------------------------------
-
-Date: 06/12/2019
-Name: Webster Hall
-Name: House of Blues Dallas
-City: Dallas
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-Name: Ogden Theatre
-Date: 06/15/2019
-Country: CO
-City: Denver
-Country: United States
-
----------------------------------------------------
-
-Date: 06/16/2019
-Name: Ogden Theatre
-City: Denver
-Country: United States
-
----------------------------------------------------
-
-Date: 06/18/2019
-Country: CO
-Name: The Showbox
-City: Seattle
-Country: United States
-
----------------------------------------------------
-
-Country: TX
-Date: 06/19/2019
-Name: The Showbox
-Country: WA
-City: Seattle
-
----------------------------------------------------
-
-Country: WA
-Country: United States
-City: Seattle
-Name: Showbox SoDo
-Country: United States
-Country: WA
-
----------------------------------------------------
-
-Name: The Regency Ballroom
-Date: 06/20/2019
-Country: CA
-Date: 06/24/2019
-
----------------------------------------------------
-
-City: Sf
-Date: 06/25/2019
-Country: United States
-Country: CA
-Name: The Regency Ballroom
-
----------------------------------------------------
-
-City: Sf
-Country: United States
-City: Sf
-Date: 06/26/2019
-Country: United States
-Name: The Regency Ballroom
-
----------------------------------------------------
-
-Country: CA
-Date: 06/28/2019
-City: Los Angeles
-Name: Fonda Theatre
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-City: Los Angeles
-Country: CA
-Date: 06/29/2019
-Name: The Fonda Theatre
-
----------------------------------------------------
-
-Name: The Fonda Theatre
-City: Los Angeles
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Country: United States
-Name: O2 Academy Brixton
-City: London
-Country: United Kingdom
-
----------------------------------------------------
-
-Date: 06/30/2019
-Name: Casino de Paris
-Date: 07/09/2019
-City: Paris
-Country: France
-Date: 07/10/2019
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-IMDB Rating: 5.2
-Release Year: 2008
-Title: Twilight
-Rotten Tomatoes Rating: 49%
-Country: USA
-Language: English
-Plot: Bella Swan moves to Forks and encounters Edward Cullen, a gorgeous boy with a secret.
-Actors: Kristen Stewart, Sarah Clarke, Matt Bushell, Billy Burke
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Title: Twilight
-Release Year: 2008
-IMDB Rating: 5.2
-Rotten Tomatoes Rating: 49%
-Language: English
-Country: USA
-Plot: Bella Swan moves to Forks and encounters Edward Cullen, a gorgeous boy with a secret.
-Actors: Kristen Stewart, Sarah Clarke, Matt Bushell, Billy Burke
-
----------------------------------------------------
-
-Empire of the sun
-Date: 03/02/2019
-Name: M3F Music Festival
-City: Phoenix
-Country: United States
-Country: AZ
-Date: 05/30/2019
-
----------------------------------------------------
-
-Name: Metro Chicago
-City: Chicago
-Country: United States
-
----------------------------------------------------
-
-Country: IL
-Country: IL
-City: Chicago
-Country: United States
-Date: 05/31/2019
-Name: Metro Chicago
-
----------------------------------------------------
-
-Name: Metro
-City: Chicago
-Country: United States
-Date: 06/01/2019
-
----------------------------------------------------
-
-Date: 06/03/2019
-Name: Royale
-Country: United States
-City: Boston
-Country: MA
-Date: 06/04/2019
-
----------------------------------------------------
-
-Country: MA
-Country: IL
-Name: Royale
-Country: United States
-
----------------------------------------------------
-
-Date: 06/06/2019
-City: Boston
-Name: Webster Hall
-Country: United States
-City: New York
-
----------------------------------------------------
-
-Name: Webster Hall
-Date: 06/07/2019
-Country: NY
-Country: United States
-City: New York
-Name: Webster Hall
-
----------------------------------------------------
-
-City: New York
-Date: 06/08/2019
-Country: United States
-Country: NY
-Date: 06/11/2019
-
----------------------------------------------------
-
-Country: NY
-City: Dallas
-
----------------------------------------------------
-
-Country: United States
-Name: House of Blues Dallas
-Country: TX
-City: Dallas
-Name: House of Blues Dallas
-Country: United States
-Country: TX
-Date: 06/12/2019
-
----------------------------------------------------
-
-Date: 06/15/2019
-City: Denver
-Name: Ogden Theatre
-Country: United States
-
----------------------------------------------------
-
-City: Denver
-Date: 06/16/2019
-Country: CO
-Name: Ogden Theatre
-Country: United States
-
----------------------------------------------------
-
-Date: 06/18/2019
-Name: The Showbox
-Country: CO
-Country: United States
-City: Seattle
-
----------------------------------------------------
-
-Name: The Showbox
-Country: WA
-Country: WA
-Date: 06/19/2019
-Date: 06/20/2019
-City: Seattle
-
----------------------------------------------------
-
-Country: United States
-Country: WA
-City: Seattle
-Country: United States
-Name: Showbox SoDo
-
----------------------------------------------------
-
-Date: 06/24/2019
-Name: The Regency Ballroom
-City: Sf
-Country: United States
-
----------------------------------------------------
-
-Date: 06/25/2019
-City: Sf
-Country: CA
-Country: CA
-Name: The Regency Ballroom
-
----------------------------------------------------
-
-Date: 06/26/2019
-Name: The Regency Ballroom
-City: Sf
-Country: United States
-
----------------------------------------------------
-
-City: Los Angeles
-Date: 06/28/2019
-Country: CA
-Country: United States
-Name: Fonda Theatre
-Country: United States
-
----------------------------------------------------
-
-Name: The Fonda Theatre
-City: Los Angeles
-Date: 06/29/2019
-
----------------------------------------------------
-
-Country: United States
-Date: 06/30/2019
-Country: CA
-Name: The Fonda Theatre
-City: Los Angeles
-Country: CA
-
----------------------------------------------------
-
-Country: CA
-Date: 07/09/2019
-Name: O2 Academy Brixton
-Country: United Kingdom
-
----------------------------------------------------
-
-City: London
-Date: 07/10/2019
-City: Paris
-Country: United States
-Name: Casino de Paris
-Country: France
-
----------------------------------------------------
-
-Empire of the sun
-Date: 03/02/2019
-Name: M3F Music Festival
-Country: AZ
-Country: United States
-
----------------------------------------------------
-
-Name: Metro Chicago
-City: Chicago
-Country: IL
-Country: United States
-
----------------------------------------------------
-
-Date: 05/30/2019
-Date: 05/31/2019
-Name: Metro Chicago
-Country: IL
-City: Phoenix
-Country: United States
-
----------------------------------------------------
-
-Date: 06/01/2019
-Name: Metro
-City: Chicago
-City: Chicago
-Country: IL
-Country: United States
-
----------------------------------------------------
-
-Date: 06/03/2019
-Name: Royale
-City: Boston
-Country: MA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/04/2019
-Name: Royale
-City: Boston
-Country: MA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/06/2019
-Name: Webster Hall
-City: New York
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-Date: 06/07/2019
-Name: Webster Hall
-City: New York
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-Date: 06/08/2019
-Name: Webster Hall
-City: New York
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-Date: 06/11/2019
-Name: House of Blues Dallas
-City: Dallas
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-Date: 06/12/2019
-Name: House of Blues Dallas
-City: Dallas
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-Date: 06/15/2019
-Name: Ogden Theatre
-City: Denver
-Country: CO
-Country: United States
-
----------------------------------------------------
-
-Date: 06/16/2019
-Name: Ogden Theatre
-City: Denver
-Country: CO
-Country: United States
-
----------------------------------------------------
-
-Date: 06/18/2019
-Name: The Showbox
-City: Seattle
-Country: WA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/19/2019
-Name: The Showbox
-City: Seattle
-Country: WA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/20/2019
-Name: Showbox SoDo
-City: Seattle
-Country: WA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/24/2019
-Name: The Regency Ballroom
-City: Sf
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/25/2019
-Name: The Regency Ballroom
-City: Sf
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/26/2019
-Name: The Regency Ballroom
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Name: Fonda Theatre
-City: Los Angeles
-City: Sf
-Date: 06/28/2019
-
----------------------------------------------------
-
-Country: United States
-Country: CA
-Date: 06/29/2019
-Name: The Fonda Theatre
-City: Los Angeles
-Country: United States
-Country: CA
-
----------------------------------------------------
-
-Date: 06/30/2019
-Name: The Fonda Theatre
-City: Los Angeles
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Date: 07/09/2019
-Name: O2 Academy Brixton
-Country: United Kingdom
-City: London
-
----------------------------------------------------
-
-Date: 07/10/2019
-Name: Casino de Paris
-City: Paris
-Country: France
-
----------------------------------------------------
-
-Empire of the sun
-Date: 03/02/2019
-Name: M3F Music Festival
-City: Phoenix
-Country: AZ
-Country: United States
-
----------------------------------------------------
-
-Date: 05/30/2019
-Name: Metro Chicago
-City: Chicago
-Country: IL
-Country: United States
-
----------------------------------------------------
-
-Date: 05/31/2019
-Name: Metro Chicago
-City: Chicago
-Country: IL
-Country: United States
-
----------------------------------------------------
-
-Date: 06/01/2019
-Name: Metro
-City: Chicago
-Country: IL
-Country: United States
-
----------------------------------------------------
-
-Date: 06/03/2019
-Name: Royale
-City: Boston
-Country: MA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/04/2019
-Name: Royale
-City: Boston
-Country: MA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/06/2019
-Name: Webster Hall
-City: New York
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-Date: 06/07/2019
-Name: Webster Hall
-City: New York
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-Date: 06/08/2019
-Name: Webster Hall
-City: New York
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-Date: 06/11/2019
-Name: House of Blues Dallas
-City: Dallas
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-Date: 06/12/2019
-Name: House of Blues Dallas
-City: Dallas
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-Date: 06/15/2019
-Name: Ogden Theatre
-City: Denver
-Country: CO
-Country: United States
-
----------------------------------------------------
-
-Date: 06/16/2019
-Name: Ogden Theatre
-City: Denver
-Country: CO
-Country: United States
-
----------------------------------------------------
-
-Date: 06/18/2019
-Name: The Showbox
-City: Seattle
-Country: WA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/19/2019
-Name: The Showbox
-City: Seattle
-Country: WA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/20/2019
-Name: Showbox SoDo
-City: Seattle
-Country: WA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/24/2019
-Name: The Regency Ballroom
-City: Sf
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/25/2019
-Name: The Regency Ballroom
-City: Sf
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/26/2019
-Name: The Regency Ballroom
-City: Sf
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/28/2019
-Name: Fonda Theatre
-City: Los Angeles
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/29/2019
-Name: The Fonda Theatre
-City: Los Angeles
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Date: 06/30/2019
-Name: The Fonda Theatre
-City: Los Angeles
-Country: CA
-Country: United States
-
----------------------------------------------------
-
-Date: 07/09/2019
-Name: O2 Academy Brixton
-
----------------------------------------------------
-
-City: London
-Date: 07/10/2019
-Country: United Kingdom
-Country: France
-
----------------------------------------------------
-
-City: Paris
-Name: Casino de Paris
-Slayer
-Date: 03/07/2019
-Country: Australia
-Name: Brisbane Riverstage 
-
----------------------------------------------------
-
-City: Brisbane
-Date: 03/09/2019
-Name: Download Festival
-
----------------------------------------------------
-
-Date: 03/11/2019
-Country: Australia
-Name: Download Festival
-Country: Australia
-City: Melbourne
-
----------------------------------------------------
-
-Name: Adelaide Entertainment Centre
-City: Sydney
-City: Adelaide
-Country: Australia
-
----------------------------------------------------
-
-Name: Eventfinda Stadium
-Date: 03/15/2019
-Date: 03/13/2019
-Country: New Zealand
-
----------------------------------------------------
-
-City: Auckland
-Date: 03/17/2019
-City: Christchurch
-Name: Horncastle Arena
-
----------------------------------------------------
-
-Country: New Zealand
-Name: Download Festival
-City: Chiba Prefecture
-
----------------------------------------------------
-
-Country: Japan
-Date: 03/21/2019
-Name: Pulp Summer Slam
-Country: Philippines
-City: Manila
-Date: 03/23/2019
-
----------------------------------------------------
-
-City: Phoenix
-Name: Ak-Chin Pavilion
-Date: 05/02/2019
-Country: United States
-
----------------------------------------------------
-
-Country: AZ
-Date: 05/03/2019
-Name: Isleta Amphitheater
-Country: United States
-Country: NM
-City: Albuquerque
-
----------------------------------------------------
-
-City: El Paso
-Name: UTEP/Don Haskins Center
-Country: TX
-Date: 05/05/2019
-
----------------------------------------------------
-
-Date: 05/07/2019
-Name: Bert Ogden Arena
-Country: United States
-Country: United States
-Date: 05/08/2019
-
----------------------------------------------------
-
-Name: The Pavilion at Toyota Music Factory
-Country: TX
-City: Irving
-City: Edinburg
-Country: United States
-
----------------------------------------------------
-
-Name: Mid Florida Credit Union Amphitheatre
-City: Tampa
-Date: 05/10/2019
-Country: FL
-Country: United States
-
----------------------------------------------------
-
-Country: TX
-City: West Palm Beach
-Country: FL
-Name: Coral Sky Amphitheater
-
----------------------------------------------------
-
-Date: 05/13/2019
-Country: United States
-Name: Big Sandy Superstore Arena
-Date: 05/11/2019
-City: Huntington
-Country: United States
-
----------------------------------------------------
-
-Name: Merriweather Post Pavilion
-Country: WV
-City: Columbia
-Date: 05/14/2019
-Country: United States
-
----------------------------------------------------
-
-Name: Ruoff Home Mortgage Music Center
-City: Noblesville
-Country: IN
-Date: 05/16/2019
-
----------------------------------------------------
-
-Date: 05/17/2019
-Name: Providence Medical Center Amphitheater
-Country: United States
-Country: MD
-City: Bonner Springs
-Country: United States
-
----------------------------------------------------
-
-Name: DTE Energy Music Theater
-Date: 05/19/2019
-Country: MI
-Country: KS
-City: Clarkston
-Country: United States
-
----------------------------------------------------
-
-City: Youngstown
-Date: 05/20/2019
-Name: Covelli Centre
-Country: United States
-
----------------------------------------------------
-
-Country: OH
-Date: 05/22/2019
-Name: Canadian Tire Centre
-
----------------------------------------------------
-
-Date: 05/24/2019
-Name: BB&T Pavilion
-City: Camden
-Country: Canada
-Country: United States
-
----------------------------------------------------
-
-City: Ottawa
-Date: 05/25/2019
-City: Mansfield
-Name: Xfinity Center
-Country: United States
-
----------------------------------------------------
-
-Date: 06/04/2019
-Country: MA
-Name: Gliwice Arena
-Country: Poland
-City: Gliwice
-
----------------------------------------------------
-
-Name: Sweden Rock Festival AB
-Date: 06/06/2019
-Country: Sweden
-City: Sölvesborg S
-Date: 06/08/2019
-
----------------------------------------------------
-
-City: Nürburg
-Name: Rock Am Ring (June 7-9)
-Country: Germany
-
----------------------------------------------------
-
-Country: NJ
-Name: Rock im Park (June 7-9)
-Country: Germany
-City: Nurnberg
-
----------------------------------------------------
-
-Date: 06/09/2019
-City: Budapest
-Country: Hungary
-
----------------------------------------------------
-
-Date: 06/13/2019
-Name: Arena Leipzig
-Name: Sports Arena
-Date: 06/11/2019
-
----------------------------------------------------
-
-City: Leipzig
-Name: Nova Rock
-Date: 06/14/2019
-City: Nickelsdorf
-
----------------------------------------------------
-
-Country: Austria
-Name: Download Festival (June 14-16)
-Country: Germany
-City: Castle Donington
-Country: United Kingdom
-
----------------------------------------------------
-
-Date: 06/19/2019
-Name: Geneva Arena
-Date: 06/16/2019
-City: Le Grand-saconnex
-
----------------------------------------------------
-
-Country: Switzerland
-Name: Graspop Metal Meeting
-Date: 06/21/2019
-
----------------------------------------------------
-
-Country: Belgium
-Name: Hellfest
-Date: 06/23/2019
-City: Dessel
-City: Clisson
-Country: France
-
----------------------------------------------------
-
-Name: Tipsport Arena
-Date: 06/25/2019
-Country: Czech Republic
-
----------------------------------------------------
-
-City: Praha
-Date: 06/28/2019
-City: Oslo
-Country: Norway
-
----------------------------------------------------
-
-Name: Tuska Open Air
-Date: 06/29/2019
-Name: Tons Of Rock
-City: Helsinki
-
----------------------------------------------------
-
-Name: Resurrection Fest
-Date: 07/03/2019
-City: Viveiro
-Country: Spain
-
----------------------------------------------------
-
-Country: Finland
-Name: Heavy Rock Festival Stadium Restelo
-City: Lisbon
-Country: Portugal
-
----------------------------------------------------
-
-Name: Rock the Castle
-City: Vérone
-Date: 07/07/2019
-
----------------------------------------------------
-
-Country: Italy
-Date: 07/05/2019
-Name: Arenele Romane
-City: Bucharest
-Country: Romania
-
----------------------------------------------------
-
-Name: Sofia Airport Park
-Date: 07/11/2019
-Country: Bulgaria
-Date: 07/10/2019
-Date: 07/13/2019
-City: Sofia
-
----------------------------------------------------
-
-Country: Greece
-
----------------------------------------------------
-
-City: Athens
-Date: 07/27/2019
-Name: AthensRocks Apostolos Nikolaidis Stadium
-Country: Canada
-City: Montreal
-Name: Heavy Montreal (Weekend of July 27-28)
-
----------------------------------------------------
-
-Date: 08/02/2019
-Name: Wacken Open Air
-
----------------------------------------------------
-
-Country: Germany
-Date: 08/03/2019
-Name: Messegelände Balingen
-City: Balingen
-Country: Germany
-
----------------------------------------------------
-
-Date: 10/04/2019
-City: Rio De Janeiro
-City: Wacken
-Name: Rock In Rio
-
----------------------------------------------------
-
-Country: Brazil
-Heart
-Date: 07/09/2019
-Name: Hollywood Casino Amphitheatre - St. Louis
-City: Maryland Heights
-Country: United States
-
----------------------------------------------------
-
-Date: 07/11/2019
-Country: MO
-Name: Hollywood Casino Amphitheatre
 City: Tinley Park
 Country: United States
 
 ---------------------------------------------------
 
-Country: IL
-Name: Budweiser Stage
-City: Toronto
-Date: 07/14/2019
-
----------------------------------------------------
-
-Name: Bell Centre
-Country: Canada
-Date: 07/16/2019
-City: Montreal
-Country: Canada
-
----------------------------------------------------
-
-Date: 07/17/2019
-Name: Xfinity Center
-City: Mansfield
-Country: MA
-Country: United States
-
----------------------------------------------------
-
-Date: 07/20/2019
-Name: Xfinity Theatre
-City: Hartford
-Country: CT
-Country: United States
-
----------------------------------------------------
-
-Date: 07/21/2019
-Name: Saratoga Performing Arts Center
-City: Saratoga Springs
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-Date: 07/23/2019
-Name: Darling's Waterfront Pavilion
-City: Bangor
-Country: ME
-Country: United States
-
----------------------------------------------------
-
-Date: 07/24/2019
-Name: Bank of New Hampshire Pavilion
-City: Gilford
-Country: NH
-Country: United States
-
----------------------------------------------------
-
-Date: 07/26/2019
-Name: Darien Lake Performing Arts Center
-City: Darien Center
-Country: NY
-Country: United States
-
----------------------------------------------------
-
-Date: 07/27/2019
-Name: Riverbend Music Center
-Country: United States
-
----------------------------------------------------
-
-City: Cincinnati
-Name: Bethel Woods Center For the Arts
-Country: OH
-City: Bethel
-Country: United States
-
----------------------------------------------------
-
-Date: 07/30/2019
-Country: NY
-Name: Lakeview Amphitheater
-Country: NY
-Country: United States
-City: Syracuse
-
----------------------------------------------------
-
-Name: KeyBank Pavilion
-City: Burgettstown
-Date: 08/01/2019
-Country: United States
-Date: 07/29/2019
-Date: 08/04/2019
-Country: PA
-City: Cuyahoga Falls
-
----------------------------------------------------
-
-Country: United States
-
----------------------------------------------------
-
-Country: OH
-Name: Blossom Music Center
-Name: DTE Energy Music Theatre
-Country: MI
-City: Clarkston
-
----------------------------------------------------
-
-Country: United States
-Date: 08/05/2019
-Date: 08/07/2019
 City: Noblesville
+Country: IN
 Name: Ruoff Home Mortgage Music Center
 
 ---------------------------------------------------
 
-Date: 08/08/2019
-Country: IN
-Name: Ascend Amphitheater
-Country: TN
-
----------------------------------------------------
-
 Country: United States
-Date: 08/10/2019
-Country: United States
-Name: Coastal Credit Union Music Park At Walnut Creek
-City: Raleigh
-City: Nashville
-Country: United States
-
----------------------------------------------------
-
-Date: 08/11/2019
-Name: Veterans United Home Loans Amphitheater
-Country: VA
-City: Virginia Beach
-Country: United States
-
----------------------------------------------------
-
-Name: Merriweather Post Pavilion
-Country: NC
-City: Columbia
-Date: 08/13/2019
-
----------------------------------------------------
-
-Country: MD
-Country: United States
-Name: PNC Music Pavilion
-City: Charlotte
-Country: NC
-Country: United States
-
----------------------------------------------------
-
-Name: Coral Sky Amphitheatre
-Date: 08/16/2019
-City: West Palm Beach
-Date: 08/14/2019
-
----------------------------------------------------
-
-Country: FL
-Country: United States
-Name: MIDFLORIDA Credit Union Amphitheatre
-Country: FL
-Date: 08/17/2019
-Country: United States
-
----------------------------------------------------
-
-Name: Ameris Bank Amphitheatre
-City: Tampa
-City: Alpharetta
-Country: United States
-Country: GA
-
----------------------------------------------------
-
-Name: Oak Mountain Amphitheatre
-Date: 08/19/2019
-Country: AL
-City: Pelham
-Country: United States
-
----------------------------------------------------
-
-Name: The Cynthia Woods Mitchell Pavilion
-City: The Woodlands
-Date: 08/20/2019
-Country: TX
-Country: United States
-
----------------------------------------------------
-
-Name: Dos Equis Pavilion
+Date: 08/24/2019
+Date: 08/26/2019
+Name: Xcel Energy Center
+City: St Paul
 Date: 08/22/2019
-City: Dallas
-Date: 08/23/2019
 Country: United States
 
 ---------------------------------------------------
 
-Name: Isleta Amphitheater
-Country: TX
-Date: 08/25/2019
-Country: United States
-Country: NM
-
----------------------------------------------------
-
-Name: North Island Credit Union Ampitheatre
-City: Chula Vista
-City: Albuquerque
-Country: United States
-Date: 08/27/2019
-
----------------------------------------------------
-
-Name: AK Chin Pavilion
-Country: CA
+Country: MN
+Name: Bell MTS Place
 Date: 08/28/2019
-Country: United States
-Country: AZ
-City: Phoenix
+Country: Canada
 
 ---------------------------------------------------
 
-Name: USANA Amphitheatre
-Country: UT
-Date: 08/30/2019
-City: West Valley City
+Name: Rogers Place
+City: Edmonton
+Country: Canada
 
 ---------------------------------------------------
 
-Name: Pepsi Center
 Date: 08/31/2019
-Country: United States
-Country: CO
-City: Denver
-Country: United States
+Name: Scotiabank Saddledome
+City: Winnipeg
+Date: 08/30/2019
+City: Calgary
 
 ---------------------------------------------------
 
-Name: Sunlight Supply Amphitheater
+Country: Canada
 Date: 09/03/2019
-Country: United States
+Country: Canada
+City: Vancouver
+Name: Rogers Arena
 
 ---------------------------------------------------
 
-Date: 09/04/2019
-City: Ridgefield
-Name: Tacoma Dome
 Country: WA
+Country: United States
+Date: 09/05/2019
 City: Tacoma
-Country: United States
 
 ---------------------------------------------------
 
-Name: Concord Pavilion
-City: Concord
+Name: Moda Center
 Date: 09/06/2019
-Country: United States
-Country: WA
-Country: CA
+Country: OR
+City: Portland
+Name: Tacoma Dome
 
 ---------------------------------------------------
 
-Date: 09/08/2019
-Name: Pearl Concert Theater at Palms Casino Resort
 Country: United States
-City: Las Vegas
-
----------------------------------------------------
-
-Country: NV
-Name: Hollywood Bowl
 Date: 09/09/2019
+Name: Golden 1 Center
+Country: United States
+
+---------------------------------------------------
+
+Date: 09/10/2019
+City: Sacramento
+Name: Oracle Arena
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+Date: 09/13/2019
+Country: CA
+Name: MGM Grand Garden Arena
+Country: NV
+City: Las Vegas
+Country: United States
+
+---------------------------------------------------
+
+Date: 09/14/2019
+Name: Banc of California Stadium
 City: Los Angeles
 Country: United States
 
 ---------------------------------------------------
 
+Date: 09/17/2019
+City: Oakland
+City: Phoenix
+Name: Talking Stick Resort Arena
+Country: United States
 Country: CA
 
 ---------------------------------------------------
 
-Artist: Backstreet Boys
-Song: I Want It That Way
-Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d31e80d695894f48b126538294918818
-Album: The Hits--Chapter One
+Name: Isleta Amphitheater
+City: Albuquerque
+Country: NM
+
+---------------------------------------------------
+
+Date: 09/21/2019
+Name: Dos Equis Pavilion
+Date: 09/19/2019
+Country: United States
+City: Dallas
+Country: United States
+Country: AZ
+
+---------------------------------------------------
+
+Country: TX
+Name: The Cynthia Woods Mitchell Pavilion
+City: The Woodlands
+Country: United States
+
+---------------------------------------------------
+
+Date: 09/22/2019
+Country: TX
+Name: AT&T Center
+Date: 09/25/2019
+City: San Antonio
+Country: United States
+
+---------------------------------------------------
+
+City: México D.f.
+Country: Mexico
+
+---------------------------------------------------
+
+Country: TX
+Date: 09/29/2019
+Name: Palacio de los Deportes
+Name: Palacio de los Deportes
+City: México
+Country: Mexico
+
+---------------------------------------------------
+
+Date: 09/30/2019
+City: Mexico City
+Name: Sports Palace
+
+---------------------------------------------------
+
+Country: Mexico
+Name: Rock in Rio
+Country: Brazil
+City: Rio De Janeiro
+
+---------------------------------------------------
+
+Date: 10/04/2019
+Name: Velez Sarsfield Stadium
+Date: 10/12/2019
+Date: 09/27/2019
+Country: Argentina
+
+---------------------------------------------------
+
+Name: Estadio Nacional
+City: Santiago
+Date: 10/15/2019
+City: Buenos Aires
+
+---------------------------------------------------
+
+Country: Chile
+Post Malone
+Date: 02/27/2019
+Name: Barclaycard Arena
+
+---------------------------------------------------
+
+Name: Ericsson Globe
+Country: Germany
+City: Stockholm
+Country: Sweden
+Date: 03/01/2019
+
+---------------------------------------------------
+
+Date: 03/02/2019
+Name: Royal Arena
+City: København
+
+---------------------------------------------------
+
+Date: 03/04/2019
+Country: Denmark
+City: Berlin
+Name: Mercedes-Benz Arena
+
+---------------------------------------------------
+
+Date: 03/05/2019
+City: München
+Name: Olympiahalle
+Country: Germany
+Country: Germany
+
+---------------------------------------------------
+
+Name: Hallenstadion
+Date: 03/07/2019
+Country: Switzerland
+
+---------------------------------------------------
+
+Date: 03/09/2019
+City: Zürich
+Name: Koenig Pilsner Area
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+City: Oberhausen
+Name: Sportpaleis Antwerpen
+Country: Belgium
+
+---------------------------------------------------
+
+Date: 03/11/2019
+Date: 03/13/2019
+City: Antwerpen
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+Name: The O2
+Name: The O2
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+Name: Pot Of Gold Music Festival
+Date: 03/17/2019
+City: Phoenix
+Date: 03/14/2019
+
+---------------------------------------------------
+
+Country: AZ
+Country: United States
+Name: Lollapalooza Argentina 
+City: Buenos Aires
+
+---------------------------------------------------
+
+Date: 03/30/2019
+Name: Lollapalooza Chile
+City: Santiago
+Country: Argentina
+Date: 03/31/2019
+
+---------------------------------------------------
+
+Name: Lollapalooza Brazil
+City: São Paulo
+Date: 04/06/2019
+Country: Brazil
+
+---------------------------------------------------
+
+Name: Perth Arena
+City: Perth
+Country: Chile
+Date: 04/26/2019
+
+---------------------------------------------------
+
+Date: 04/28/2019
+Name: Adelaide Entertainment Centre
+Country: Australia
+City: Adelaide
+
+---------------------------------------------------
+
+Date: 04/30/2019
+Country: Australia
+
+---------------------------------------------------
+
+Date: 05/01/2019
+Name: Rod Laver Arena
+Name: Rod Laver Arena
+City: Melbourne
+City: Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+Name: Adelaide Entertainment Centre
+Date: 05/02/2019
+City: Hindmarsh
+Country: Australia
+
+---------------------------------------------------
+
+Name: Entertainment Centre
+Country: Australia
+Country: Australia
+City: Brisbane
+Date: 05/05/2019
+
+---------------------------------------------------
+
+Date: 05/04/2019
+City: Brisbane
+Name: Entertainment Centre
+
+---------------------------------------------------
+
+Country: Australia
+Name: Qudos Bank Arena
+Date: 05/07/2019
+Country: Australia
+
+---------------------------------------------------
+
+Name: Qudos Bank Arena
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+Date: 05/08/2019
+Name: Qudos Bank Arena
+City: Sydney
+Date: 05/09/2019
+Country: Australia
+
+---------------------------------------------------
+
+Name: Spark Arena
+Date: 05/11/2019
+Country: New Zealand
+
+---------------------------------------------------
+
+City: Sydney
+Date: 05/12/2019
+Name: Spark Arena
+Country: New Zealand
+City: Auckland
+
+---------------------------------------------------
+
+Date: 06/15/2019
+Name: Bonnaroo Music and Arts Festival
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+Date: 06/23/2019
+City: Manchester
+Name: Firefly Festival
+Country: DE
+City: Auckland
+City: Dover
+
+---------------------------------------------------
+
+Date: 08/08/2019
+Name: Festival MEO Sudoeste
+Country: United States
+City: Odemira
+Country: Portugal
+
+---------------------------------------------------
+
+Date: 08/11/2019
+Name: Sziget Festival
+
+---------------------------------------------------
+
+Country: Hungary
+Name: Pukkelpop Festival
+City: Budapest
+Date: 08/16/2019
+Country: Belgium
+
+---------------------------------------------------
+
+Name: Summer In The City
+City: Hasselt
+Country: Ireland
+Date: 08/22/2019
+
+---------------------------------------------------
+
+Name: Reading Festival
+City: Dublin
+Date: 08/24/2019
+Country: United Kingdom
+
+---------------------------------------------------
+
+City: Reading
+Name: Leeds Festival
+Country: United Kingdom
+
+---------------------------------------------------
+
+Date: 08/25/2019
+City: Leeds
+
+---------------------------------------------------
+
+Title: Glass
+Release Year: 2019
+IMDB Rating: 7.0
+Rotten Tomatoes Rating: 37%
+Language: Spanish, English
+Country: USA
+Plot: Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.
+Actors: James McAvoy, Bruce Willis, Samuel L. Jackson, Anya Taylor-Joy
 
 ---------------------------------------------------
 
 
 ---------------------------------------------------
 
-Artist: Arcade Fire
-Song: Sprawl II (Mountains Beyond Mountains)
-Album: The Suburbs
-Preview: https://p.scdn.co/mp3-preview/c3405db8e547c3c67a99c16f090490a360ec4a82?cid=d31e80d695894f48b126538294918818
+Title: The Avengers
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 92%
+Country: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
 
 ---------------------------------------------------
 
-
----------------------------------------------------
-
-Artist: Slayer
-Song: Crionics
-Preview: null
-Album: Show No Mercy
-
----------------------------------------------------
-
-
----------------------------------------------------
-
-Artist: Pantera
-Song: I'm Broken
-Album: Far Beyond Driven
-Preview: null
-
----------------------------------------------------
-
+Release Year: 2012
